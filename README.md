@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alexohjr/alexohjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=D8C8B2&height=200&section=footer&text=Heo%20Github%20Profile&fontSize=60&fontAlignY=80&desc=HELLO%20&descSize=13&descAlign=20&descAlignY=20&animation=twinkling)
